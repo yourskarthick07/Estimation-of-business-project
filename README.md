@@ -1,1 +1,0 @@
-# Estimation-of-business-project
