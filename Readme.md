@@ -1,5 +1,5 @@
 # Estimation-of-business-Expenses
-Certainly! Here's an introduction to a hypothetical GitHub repository named **Estimation-of-business-project**:
+Certainly! Here's an introduction to a hypothetical GitHub repository named **Estimation-of-business-Expenses**:
 
 ---
 
