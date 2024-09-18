@@ -1,13 +1,13 @@
-# Estimation-of-business-Expenses
-Certainly! Here's an introduction to a hypothetical GitHub repository named **Estimation-of-business-Expenses**:
+# Estimation-of-business-Project
+Certainly! Here's an introduction to a hypothetical GitHub repository named **Estimation-of-business-Project**:
 
----
+--- 
 
-## Estimation of Business Expenses
+## Estimation of Business Project
 
 ### Introduction
 
-Welcome to the **Estimation of Business Expenses** repository! This repository contains tools and resources for estimating and managing business projects effectively. Whether you're a project manager, a team lead, or an analyst, this repository aims to provide you with useful templates, guides, and code snippets to streamline the estimation process and improve project outcomes.
+Welcome to the **Estimation of Business Project** repository! This repository contains tools and resources for estimating and managing business projects effectively. Whether you're a project manager, a team lead, or an analyst, this repository aims to provide you with useful templates, guides, and code snippets to streamline the estimation process and improve project outcomes.
 
 ### What's Included
 
