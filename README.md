@@ -33,10 +33,6 @@ Welcome to the **Estimation of Business Project** repository! This repository co
 
 Contributions to this repository are welcome! Whether you spot an issue, have a suggestion for improvement, or want to add new content, please fork the repository, make your changes, and submit a pull request. Your contributions help make this repository a valuable resource for the community.
 
-### License
-
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
-
 ### Contact
 
 If you have any questions, feedback, or suggestions regarding this repository, please feel free to reach out to us through GitHub issues or contact us directly at [knsmash07@gmail.com)
